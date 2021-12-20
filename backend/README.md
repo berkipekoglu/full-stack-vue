@@ -16,4 +16,4 @@ Before running the project, don't forget to open the 'server.js' file in the 'ba
 There are docker files in the backend folder. Just run '<i>docker-compose up</i>' on your cmd.
 
 # Demo
-<img src="./demo.png">
+<img src="../demo.png">
